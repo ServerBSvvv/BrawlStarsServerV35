@@ -1,0 +1,11 @@
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\bin\Debug\netcoreapp2.1\ObjectBrawl.deps.json
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\bin\Debug\netcoreapp2.1\ObjectBrawl.runtimeconfig.json
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\bin\Debug\netcoreapp2.1\ObjectBrawl.runtimeconfig.dev.json
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\bin\Debug\netcoreapp2.1\ObjectBrawl.dll
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\bin\Debug\netcoreapp2.1\ObjectBrawl.pdb
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.csprojAssemblyReference.cache
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.csproj.CoreCompileInputs.cache
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.AssemblyInfoInputs.cache
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.AssemblyInfo.cs
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.dll
+C:\Users\Qube\Documents\vs2017projects\ObjectBrawl\ObjectBrawl\obj\Debug\netcoreapp2.1\ObjectBrawl.pdb
